@@ -32,6 +32,7 @@ Would you like to learn more about using Nextcloud to access, share and protect 
 Enterprise? Public Sector or Education user? You may want to have a look into [**Nextcloud Enterprise**](https://nextcloud.com/enterprise/) provided by Nextcloud GmbH.
 
 ##Insalltaion##
+
 Here's a step-by-step guide to install Nextcloud using Nginx, MySQL, and an SSL certificate on Ubuntu 22.04:
 
 ### Step 1: Update and Upgrade Your System
